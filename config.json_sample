@@ -1,0 +1,6 @@
+{
+	"t1":	"/N/dc2/projects/lifebid/hayashis/fordan/testdata/freesurfer/output/mri/T1.nii.gz",
+	"mask":	"/N/dc2/projects/lifebid/hayashis/fordan/testdata/freesurfer/output/mri/brainmask.nii.gz",
+	"coords": "47.7 -64 6.625, 47.94 -57.25 -7.68, 55.32 -43.64 -8.54, 47.8833 -39.8 -15.7, 38.95 -7.7 -29.9\n 46.5 -65.85 15.2, 54.8 -57.75 -3.1, 57.05 -41.8 5, 53.6375 -38.425 -6.275",
+	"atlas": "/N/dc2/projects/lifebid/hayashis/fordan/testdata/parc/parc"
+}
