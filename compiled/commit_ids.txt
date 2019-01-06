@@ -15,8 +15,8 @@ Date:   Wed Sep 6 13:01:57 2017 -0400
     
     added package.json to be able to intall via npm package manager
 /N/u/brlife/git/wma_tools
-commit 3684e879fa0524066c19b3f71995e1e1e7ca1701
-Author: Daniel Bullock <dnbulloc@i10.red.uits.iu.edu>
-Date:   Tue Dec 11 16:32:07 2018 -0500
+commit 79234cae40552a1fce82a9acacc2a55fae36b6ef
+Author: Daniel Bullock <dnbulloc@i9.red.uits.iu.edu>
+Date:   Sat Jan 5 17:00:19 2019 -0500
 
-    fixed minor issues with warning
+    updated slice function
