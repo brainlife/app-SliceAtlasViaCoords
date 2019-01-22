@@ -15,8 +15,8 @@ Date:   Wed Sep 6 13:01:57 2017 -0400
     
     added package.json to be able to intall via npm package manager
 /N/u/brlife/git/wma_tools
-commit 79234cae40552a1fce82a9acacc2a55fae36b6ef
+commit fa1dcf865a44bfc5f9162e8fef5febbdbf7881bf
 Author: Daniel Bullock <dnbulloc@i9.red.uits.iu.edu>
-Date:   Sat Jan 5 17:00:19 2019 -0500
+Date:   Tue Jan 22 09:33:12 2019 -0500
 
-    updated slice function
+    fixed atlas path issue and 2 coord issue.  1 coord issue still needs to be fixed
